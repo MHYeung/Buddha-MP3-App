@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970474274834",
+    "project_id": "buddha-mp3",
+    "storage_bucket": "buddha-mp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970474274834:android:ae7772c7f12bec574fd8cb",
+        "android_client_info": {
+          "package_name": "com.nngnstudio.buddhamp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970474274834-fm1bl6qe717o033vu2cib8li36g6j5t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJsXN64aYvUDOqynWjCO66hSPD6P8ahc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970474274834-fm1bl6qe717o033vu2cib8li36g6j5t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
